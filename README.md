@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **devwitheasy@gmail.com**
 
-- ⚡ Fun fact **I think I when I learn JavaScript, I can feel I am fool.**
+- ⚡ Fun fact **I think when I learn JavaScript, I can feel I am fool.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
