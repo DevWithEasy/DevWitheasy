@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Amader Doctor](https://github.com/DevWithEasy/doc-appointment)<br>🌱 I’m currently learning  **Java**<br>💬 Ask me about **MERN Stack**<br>📫 How to reach me **devwitheasy@gmail.com**<br>👨‍💻 All of my projects are available at [Amader Doctor](https://devwitheasy.vercel.app)<br>⚡ Fun fact - I am a fool but I love Coding
+🔭 I’m currently working on [Amader Doctor](https://github.com/DevWithEasy/doc-appointment)<br>🌱 I’m currently learning  **Java**<br>💬 Ask me about **MERN Stack**<br>📫 How to reach me **devwitheasy@gmail.com**<br>👨‍💻 All of my projects are available at [Dev With Easy](https://devwitheasy.vercel.app)<br>⚡ Fun fact - I am a fool but I love Coding
 
 
 ## 🌐 Socials:
